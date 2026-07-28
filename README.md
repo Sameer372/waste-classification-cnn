@@ -78,8 +78,8 @@ To prevent overfitting:
 
 The trained CNN model achieved the following performance:
 
-- **Validation Accuracy:** 87.35%
-- **Best Validation Loss:** 0.3063
+- **Validation Accuracy:** 87.41%
+- **Best Validation Loss:** 0.3094
 
 The model successfully classifies waste images into Organic and Recyclable categories.
 
